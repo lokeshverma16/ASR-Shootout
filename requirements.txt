@@ -1,0 +1,9 @@
+deepgram-sdk>=3.0.0
+openai>=1.0.0
+sarvamai>=0.0.3
+python-dotenv>=1.0.0
+pandas>=2.0.0
+jiwer>=3.0.0
+rapidfuzz>=3.0.0
+soundfile>=0.12.0
+requests>=2.25.0

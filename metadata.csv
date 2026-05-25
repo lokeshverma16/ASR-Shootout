@@ -1,0 +1,21 @@
+audio_file,expected_text,locality,condition
+audio_01.wav,Haan main Koramangala mein rehta hoon,Koramangala,quiet
+audio_02.wav,Mera office Indiranagar ke paas hai,Indiranagar,quiet
+audio_03.wav,Whitefield ki side naya building bana hai,Whitefield,quiet
+audio_04.wav,Electronic City ke metro station pe milte hain,Electronic City,quiet
+audio_05.wav,Marathahalli drop kar dena bhaiya,Marathahalli,quiet
+audio_06.wav,Jayanagar fourth block ka market bohot badhiya hai,Jayanagar,fan noise
+audio_07.wav,Rajajinagar wala route short padega,Rajajinagar,fan noise
+audio_08.wav,Hebbal flyover pe toh humesha jam rehta hai,Hebbal,fan noise
+audio_09.wav,Yelahanka side rent thoda kam hai,Yelahanka,fan noise
+audio_10.wav,Banashankari bus stand ke pass khada hoon jaldi aao,Banashankari,street traffic
+audio_11.wav,Bhaiya HSR Layout sector two chalna hai,HSR Layout,street traffic
+audio_12.wav,BTM Layout mein bohot saare pg hain,BTM Layout,street traffic
+audio_13.wav,Majestic railway station ke pass drop kar do,Majestic,street traffic
+audio_14.wav,Silk Board signal pe phas gaya hoon time lagega,Silk Board,whisper
+audio_15.wav,Bellandur lake ke pass dhuandhai ho rakhi hai,Bellandur,whisper
+audio_16.wav,Sarjapur road pe naya mall khula hai,Sarjapur,whisper
+audio_17.wav,Bommanahalli side raasta bohot kharab hai,Bommanahalli,whisper
+audio_18.wav,KR Puram bridge cross karne mein ek ghanta lag gaya,KR Puram,fast
+audio_19.wav,Peenya industrial area mein factory hai unki,Peenya,fast
+audio_20.wav,Yeshwanthpur junction se train pakadni hai jaldi chalo,Yeshwanthpur,fast

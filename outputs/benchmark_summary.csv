@@ -1,0 +1,4 @@
+Model,Avg WER,Locality Detection Acc,Avg Latency (s)
+Deepgram,83.43%,70.00%,2.49s
+Whisper,104.65%,80.00%,0.46s
+Sarvam,109.43%,85.00%,0.86s
